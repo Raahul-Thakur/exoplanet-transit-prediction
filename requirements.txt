@@ -1,0 +1,17 @@
+numpy
+matplotlib
+astropy
+lightkurve
+skyfield
+poliastro
+scipy
+batman-package
+pymc3
+exoplanet
+corner
+arviz
+astroquery
+streamlit
+dash
+plotly
+manim
